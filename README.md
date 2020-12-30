@@ -1,0 +1,2 @@
+# House-Price-Prediction-and-Collinearity-with-Stock-Market-Indexes
+A predictive analysis of Boulder County, CO real estate property prices that utilized Python to implement regression methods (Random Forest, SVR, Lasso, Ridge) and classification methods (SVC, KNN). To better predict when to buy/sell properties, historical time-series data for national real estate and financial markets were also analyzed using correlation analysis, Prophet forecasting, and linear regression.
